@@ -61,6 +61,4 @@ The settings are a practical starting point, not a claim that every player will 
 
 The Python files can be syntax-checked with `python -m compileall .`. Run the game locally to verify visuals, collisions, controls, and actual sound output before recording the final demo. In particular, confirm sound on the computer used for the demonstration; audio hardware and Pygame mixer configuration vary between systems.
 
-## Lab submission reminder
 
-The original lab brief asks for a short video of the original behavior, a short video showing the completed behavior, and a link to the full chat history used during development. Those items must be captured/provided separately; they are not included in this source archive.

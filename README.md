@@ -2,6 +2,8 @@
 
 A small Flappy Bird-style game built with Python and Pygame. This version completes the four lab tasks: accurate collision detection, an on-screen Game Over state, replay with three difficulty levels, and sound feedback.
 
+Chat link: https://chatgpt.com/share/6aca6122-1ef0-83e8-a43d-bce22da27c28
+
 ## Requirements
 
 - Python 3.10 or newer
